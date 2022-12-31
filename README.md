@@ -17,8 +17,8 @@
   <li><code>PatientId</code>: the patient's unique identification</li>
   <li><code>AppointmentId</code>: the unique identification for each appointment</li>
   <li><code>Gender</code>: whether the patient is Male or Female</li>
-  <li><code>AppointmentDay</code>: the day on which the patient or their proxy called to set up their appointment</li>
-  <li><code>ScheduledDay</code>: the day on which the patient has the actual appointment and has to visit the doctor</li>
+  <li><code>ScheduledDay</code>: the day on which the patient or their proxy called to set up their appointment</li>
+  <li><code>AppointmentDay</code>: the day on which the patient has the actual appointment and has to visit the doctor</li>
   <li><code>Age</code>: the patient's age (in years)</li>
   <li><code>Neighborhood</code>: the location of the hospital</li>
   <li><code>Scholarship</code>: whether or not the patient is enrolled in the Brasilian welfare program, <a href= https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia> Bolsa Família</a></li>
@@ -37,7 +37,7 @@
 <ul>
   <li>What factors are important for predicting whether or not a patient will show up for their scheduled appointment?</li>
   <li>Are there any trends or patterns in the data that can help us understand why some patients miss their appointments?</li>
-  <li>Can we develop a model to accurately predict whether or not a patient will show up for their appointment?</li>
+  <li>Given the statistical relationship between receiving SMS messages and attending appointments, if a more efficient bulk text system is introduced, would this significantly improve attendance of scheduled appointments?</li>
 </ul>
 
 <h2>Results 📈</h2>
@@ -46,4 +46,4 @@
 
 <h2>License 🔑</h2>
 
-<p>This repository is licensed under the <a href="LICENSE">Creative Commons Attribution 4.0 International (CC BY 4.0) license</a>.</p>
+<p>This repository is licensed under the <a href="LICENSE.txt">Creative Commons Attribution 4.0 International (CC BY 4.0) license</a>.</p>
