@@ -2,7 +2,7 @@
 
 <h2>Introduction 📝</h2>
 
-<p>This repository contains an analysis of a dataset containing information on medical appointments in Brazil. The focus of the analysis is on predicting whether or not patients will show up for their scheduled appointments.</p>
+<p>This repository contains an analysis of a dataset containing information on medical appointments in Brazil. The focus of the analysis is on understanding factors that predict whether or not patients will show up for their scheduled appointments.</p>
 
 <p> This analysis was carried out as part of the project requirements for the Udacity Data Analyst Nanodegree programme which required demonstrating the ability to conduct independent data analysis and to communicate observed findings.</p>
 
@@ -43,6 +43,8 @@
 <h2>Results 📈</h2>
 
 <p>The results of the analysis will be published in a Jupyter Notebook in the <code>notebooks</code> directory.</p>
+
+<p>The final report can be found in the file named <code>investigate-a-dataset-project.html</code></p>
 
 <h2>License 🔑</h2>
 
